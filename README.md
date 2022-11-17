@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=slice&color=&height=300&section=header&text=JaeJunOh&fontSize=90)
+[![header](https://capsule-render.vercel.app/api?type=slice&color=&height=300&section=header&text=JaeJunOh&fontSize=90)](https://github.com/O-WigglyPlay)
 </div>
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>️
 <div align="center">
@@ -26,5 +26,5 @@
 </div>
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=O-WigglyPlay&show_icons=true&theme=react)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=O-WigglyPlay&show_icons=true&theme=react)](https://github.com/O-WigglyPlay)
 </div>
