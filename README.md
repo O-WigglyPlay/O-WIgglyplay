@@ -23,8 +23,10 @@
   
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_jaejun_02/)&nbsp;
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/O-WigglyPlay)&nbsp;
+  
 </div>
 <div align="center">
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=O-WigglyPlay&show_icons=true&theme=react)](https://github.com/O-WigglyPlay)
+  
 </div>
