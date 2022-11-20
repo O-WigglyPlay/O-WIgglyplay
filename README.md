@@ -33,3 +33,12 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=O-WigglyPlay&show_icons=true&theme=react)](https://github.com/O-WigglyPlay)
   
 </div>
+
+School
+---
+- (2018 ~ 2020) 한국게임과학고등학교 컴퓨터게임개발과 전공
+- (2021 ~     ) 계명대학교 공과대학 컴퓨터공학부 게임모바일공학 전공
+
+Certificate
+---
+- (2021.10) 정보처리기능사
