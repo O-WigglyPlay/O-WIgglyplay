@@ -21,7 +21,7 @@
 <h3 align="center">👋 Its' Me 👋 </h3>
 <div align="center">
   
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yesterday_jun/)&nbsp;
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yesterday_jun_02/)&nbsp;
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/O-WigglyPlay)&nbsp;
   <br>
   
