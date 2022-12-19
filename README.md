@@ -12,6 +12,7 @@
   [![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)](https://github.com/O-WigglyPlay)&nbsp;
   [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)](https://github.com/O-WigglyPlay)&nbsp;
   [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)](https://github.com/O-WigglyPlay)&nbsp;
+  [![Unity](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=Unity&logoColor=white)](https://github.com/O-WigglyPlay)&nbsp;
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/O-WigglyPlay)&nbsp;
   [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)](https://github.com/O-WigglyPlay)
   <!--[![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)](https://github.com/O-WigglyPlay)-->
