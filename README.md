@@ -31,7 +31,7 @@
 </div>
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=O-WigglyPlay&show_icons=true&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=O-WigglyPlay&show_icons=true&theme=buefy)(https://github.com/O-WigglyPlay)
   
 </div>
 
