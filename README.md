@@ -26,9 +26,10 @@
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/O-WigglyPlay)&nbsp;
   <br>
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FO-WigglyPlay&count_bg=%23000000&title_bg=%238C8C8C&icon=github.svg&icon_color=%23000000&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=true)]
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FO-WigglyPlay&count_bg=%23000000&title_bg=%238C8C8C&icon=github.svg&icon_color=%23000000&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=true)](https://hits.seeyoufarm.com)
   
 </div>
+
 School
 ---
 - (2018 ~ 2020) 한국게임과학고등학교 컴퓨터게임개발과 전공 졸업
